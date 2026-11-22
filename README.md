@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="CAD and Web Dev banner" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DFE6F2&center=true&vCenter=true&width=560&lines=Web+developer+%F0%9F%92%BB;CAD+designer+%F0%9F%93%90;Turning+ideas+into+models+%26+websites" alt="Typing intro"/>
 
