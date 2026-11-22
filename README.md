@@ -6,7 +6,7 @@
 
 <img src="./divider.svg" width="100%" alt=""/>
 
-## 🛠️ Toolbox
+# Toolbox
 
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-0a1f5c?style=for-the-badge&logo=autodesk&logoColor=dfe6f2)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0a1f5c?style=for-the-badge&logo=autodesk&logoColor=dfe6f2)
@@ -19,7 +19,7 @@
 
 <img src="./divider.svg" width="100%" alt=""/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=wisegirl139-sudo&show_icons=true&hide_border=true&count_private=true&bg_color=0a1f5c&title_color=dfe6f2&text_color=cfe0ff&icon_color=8fb4ff"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisegirl139-sudo&layout=compact&hide_border=true&bg_color=0a1f5c&title_color=dfe6f2&text_color=cfe0ff"/>
