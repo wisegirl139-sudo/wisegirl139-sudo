@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="470" viewBox="0 0 520 470">
+<style>
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:18px;text-anchor:middle;white-space:pre}
+.tree{fill:#2ea043}.trunk{fill:#8b5a2b}
+.star{fill:#ffd23f;font-size:26px;animation:pulse 1.6s ease-in-out infinite;transform-origin:center;transform-box:fill-box}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.55;transform:scale(1.25)}}
+.l{animation:blink 1.4s ease-in-out infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.15}}
+.s{fill:#cfe8ff;animation:fall linear infinite}
+@keyframes fall{from{transform:translateY(-20px)}to{transform:translateY(480px)}}
+.msg{fill:#9ecbff;font-size:15px}
+</style>
+<rect width="520" height="470" rx="14" fill="#0d1117"/>
+<circle class="s" cx="175" cy="0" r="1.6" style="animation-duration:7.4s;animation-delay:-0.5s"/>
+<circle class="s" cx="430" cy="0" r="1.2" style="animation-duration:7.2s;animation-delay:-0.6s"/>
+<circle class="s" cx="269" cy="0" r="1.6" style="animation-duration:5.2s;animation-delay:-4.8s"/>
+<circle class="s" cx="45" cy="0" r="1.6" style="animation-duration:5.5s;animation-delay:-4.7s"/>
+<circle class="s" cx="433" cy="0" r="1.2" style="animation-duration:10.7s;animation-delay:-6.9s"/>
+<circle class="s" cx="308" cy="0" r="1.2" style="animation-duration:8.5s;animation-delay:-4.4s"/>
+<circle class="s" cx="509" cy="0" r="1.6" style="animation-duration:5.3s;animation-delay:-9.4s"/>
+<circle class="s" cx="158" cy="0" r="2.6" style="animation-duration:5.9s;animation-delay:-1.3s"/>
+<circle class="s" cx="167" cy="0" r="1.6" style="animation-duration:5.6s;animation-delay:-6.3s"/>
+<circle class="s" cx="106" cy="0" r="2" style="animation-duration:5.6s;animation-delay:-7.8s"/>
+<circle class="s" cx="298" cy="0" r="1.2" style="animation-duration:8.7s;animation-delay:-5.5s"/>
+<circle class="s" cx="282" cy="0" r="2.6" style="animation-duration:9.7s;animation-delay:-5.1s"/>
+<circle class="s" cx="482" cy="0" r="2.6" style="animation-duration:7.2s;animation-delay:-2.7s"/>
+<circle class="s" cx="102" cy="0" r="1.6" style="animation-duration:5.5s;animation-delay:-3.3s"/>
+<circle class="s" cx="263" cy="0" r="2" style="animation-duration:9.4s;animation-delay:-3.2s"/>
+<circle class="s" cx="47" cy="0" r="1.2" style="animation-duration:8.1s;animation-delay:-1.8s"/>
+<circle class="s" cx="185" cy="0" r="1.6" style="animation-duration:10.6s;animation-delay:-4.6s"/>
+<circle class="s" cx="502" cy="0" r="1.2" style="animation-duration:9.6s;animation-delay:-6.3s"/>
+<circle class="s" cx="458" cy="0" r="2" style="animation-duration:7.0s;animation-delay:-3.9s"/>
+<circle class="s" cx="264" cy="0" r="2.6" style="animation-duration:5.4s;animation-delay:-1.0s"/>
+<circle class="s" cx="148" cy="0" r="2.6" style="animation-duration:9.2s;animation-delay:-0.7s"/>
+<circle class="s" cx="384" cy="0" r="2" style="animation-duration:8.9s;animation-delay:-10.9s"/>
+<circle class="s" cx="430" cy="0" r="2.6" style="animation-duration:6.7s;animation-delay:-4.2s"/>
+<circle class="s" cx="352" cy="0" r="2" style="animation-duration:5.1s;animation-delay:-5.1s"/>
+<circle class="s" cx="96" cy="0" r="1.2" style="animation-duration:8.0s;animation-delay:-2.4s"/>
+<circle class="s" cx="157" cy="0" r="1.6" style="animation-duration:9.4s;animation-delay:-4.4s"/>
+<circle class="s" cx="479" cy="0" r="2.6" style="animation-duration:5.5s;animation-delay:-4.9s"/>
+<circle class="s" cx="291" cy="0" r="2" style="animation-duration:10.3s;animation-delay:-9.0s"/>
+<circle class="s" cx="452" cy="0" r="2" style="animation-duration:9.2s;animation-delay:-10.9s"/>
+<circle class="s" cx="359" cy="0" r="2.6" style="animation-duration:10.7s;animation-delay:-1.7s"/>
+<circle class="s" cx="100" cy="0" r="1.6" style="animation-duration:6.4s;animation-delay:-2.6s"/>
+<circle class="s" cx="258" cy="0" r="1.6" style="animation-duration:6.6s;animation-delay:-0.0s"/>
+<circle class="s" cx="224" cy="0" r="2" style="animation-duration:8.7s;animation-delay:-3.5s"/>
+<circle class="s" cx="74" cy="0" r="1.2" style="animation-duration:7.7s;animation-delay:-9.6s"/>
+<circle class="s" cx="497" cy="0" r="2.6" style="animation-duration:7.4s;animation-delay:-4.3s"/>
+<circle class="s" cx="256" cy="0" r="2.6" style="animation-duration:5.4s;animation-delay:-0.7s"/>
+<circle class="s" cx="116" cy="0" r="2.6" style="animation-duration:6.0s;animation-delay:-3.7s"/>
+<circle class="s" cx="36" cy="0" r="1.2" style="animation-duration:5.0s;animation-delay:-1.7s"/>
+<circle class="s" cx="61" cy="0" r="2" style="animation-duration:8.7s;animation-delay:-0.8s"/>
+<circle class="s" cx="116" cy="0" r="2.6" style="animation-duration:5.9s;animation-delay:-2.8s"/>
+<circle class="s" cx="187" cy="0" r="2" style="animation-duration:7.8s;animation-delay:-1.3s"/>
+<circle class="s" cx="259" cy="0" r="2.6" style="animation-duration:7.9s;animation-delay:-3.4s"/>
+<circle class="s" cx="83" cy="0" r="1.2" style="animation-duration:9.5s;animation-delay:-8.1s"/>
+<circle class="s" cx="255" cy="0" r="1.6" style="animation-duration:8.1s;animation-delay:-2.3s"/>
+<circle class="s" cx="497" cy="0" r="2" style="animation-duration:5.9s;animation-delay:-6.0s"/>
+<text class="star" x="260" y="40">★</text>
+<text class="tree" x="260" y="60">^</text>
+<text class="tree" x="260" y="80">^^^</text>
+<text class="l" x="248.0" y="80" fill="#ffffff" style="animation-delay:0.42s">o</text>
+<text class="l" x="272.0" y="80" fill="#4da6ff" style="animation-delay:0.73s">o</text>
+<text class="tree" x="260" y="100">^^^^^</text>
+<text class="tree" x="260" y="120">^^^</text>
+<text class="tree" x="260" y="140">^^^^^</text>
+<text class="l" x="248.0" y="140" fill="#ffd23f" style="animation-delay:1.15s">o</text>
+<text class="tree" x="260" y="160">^^^^^^^</text>
+<text class="l" x="236.0" y="160" fill="#ff4d4d" style="animation-delay:1.11s">o</text>
+<text class="l" x="260.0" y="160" fill="#ffffff" style="animation-delay:1.34s">o</text>
+<text class="tree" x="260" y="180">^^^^^^^^^</text>
+<text class="l" x="260.0" y="180" fill="#ffd23f" style="animation-delay:0.68s">o</text>
+<text class="l" x="296.0" y="180" fill="#4da6ff" style="animation-delay:1.12s">o</text>
+<text class="l" x="308.0" y="180" fill="#ff4d4d" style="animation-delay:1.27s">o</text>
+<text class="tree" x="260" y="200">^^^^^</text>
+<text class="l" x="272.0" y="200" fill="#4da6ff" style="animation-delay:0.12s">o</text>
+<text class="tree" x="260" y="220">^^^^^^^</text>
+<text class="l" x="260.0" y="220" fill="#ffd23f" style="animation-delay:0.24s">o</text>
+<text class="l" x="272.0" y="220" fill="#ffd23f" style="animation-delay:0.83s">o</text>
+<text class="tree" x="260" y="240">^^^^^^^^^</text>
+<text class="l" x="260.0" y="240" fill="#ffffff" style="animation-delay:0.18s">o</text>
+<text class="l" x="272.0" y="240" fill="#ff4d4d" style="animation-delay:0.74s">o</text>
+<text class="tree" x="260" y="260">^^^^^^^^^^^</text>
+<text class="l" x="212.0" y="260" fill="#4da6ff" style="animation-delay:0.30s">o</text>
+<text class="l" x="284.0" y="260" fill="#4da6ff" style="animation-delay:1.26s">o</text>
+<text class="tree" x="260" y="280">^^^^^^^^^^^^^</text>
+<text class="l" x="212.0" y="280" fill="#ffd23f" style="animation-delay:0.73s">o</text>
+<text class="l" x="224.0" y="280" fill="#ff7bd5" style="animation-delay:1.09s">o</text>
+<text class="l" x="260.0" y="280" fill="#ffd23f" style="animation-delay:0.66s">o</text>
+<text class="tree" x="260" y="300">^^^^^^^</text>
+<text class="l" x="224.0" y="300" fill="#ffffff" style="animation-delay:0.08s">o</text>
+<text class="l" x="236.0" y="300" fill="#ff4d4d" style="animation-delay:1.08s">o</text>
+<text class="tree" x="260" y="320">^^^^^^^^^</text>
+<text class="tree" x="260" y="340">^^^^^^^^^^^</text>
+<text class="l" x="272.0" y="340" fill="#ff4d4d" style="animation-delay:0.55s">o</text>
+<text class="l" x="320.0" y="340" fill="#4da6ff" style="animation-delay:1.10s">o</text>
+<text class="tree" x="260" y="360">^^^^^^^^^^^^^</text>
+<text class="l" x="200.0" y="360" fill="#4da6ff" style="animation-delay:0.20s">o</text>
+<text class="l" x="236.0" y="360" fill="#ff4d4d" style="animation-delay:0.56s">o</text>
+<text class="l" x="284.0" y="360" fill="#ff7bd5" style="animation-delay:1.39s">o</text>
+<text class="l" x="332.0" y="360" fill="#4da6ff" style="animation-delay:0.03s">o</text>
+<text class="tree" x="260" y="380">^^^^^^^^^^^^^^^</text>
+<text class="l" x="200.0" y="380" fill="#4da6ff" style="animation-delay:0.72s">o</text>
+<text class="l" x="236.0" y="380" fill="#ffd23f" style="animation-delay:1.36s">o</text>
+<text class="l" x="248.0" y="380" fill="#4da6ff" style="animation-delay:0.38s">o</text>
+<text class="l" x="272.0" y="380" fill="#ffd23f" style="animation-delay:1.15s">o</text>
+<text class="tree" x="260" y="400">^^^^^^^^^^^^^^^^^</text>
+<text class="l" x="212.0" y="400" fill="#ff4d4d" style="animation-delay:0.38s">o</text>
+<text class="l" x="224.0" y="400" fill="#ff4d4d" style="animation-delay:1.12s">o</text>
+<text class="l" x="236.0" y="400" fill="#ffd23f" style="animation-delay:0.09s">o</text>
+<text class="l" x="320.0" y="400" fill="#ffffff" style="animation-delay:0.99s">o</text>
+<text class="trunk" x="260" y="420">[___]</text>
+<text class="trunk" x="260" y="440">[___]</text>
+<text class="msg" x="260" y="452">Merry Christmas &amp; happy coding</text>
+</svg>
