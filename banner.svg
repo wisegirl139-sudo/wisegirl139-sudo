@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+<style>
+text{font-family:'Segoe UI Symbol','Apple Symbols','DejaVu Sans','Noto Sans Symbols2',sans-serif}
+.n{animation:rise linear infinite;opacity:0}
+@keyframes rise{0%{transform:translate(0,0) rotate(-8deg);opacity:0}10%{opacity:.9}50%{transform:translate(18px,-90px) rotate(8deg)}90%{opacity:.9}100%{transform:translate(-6px,-190px) rotate(-8deg);opacity:0}}
+.t{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-weight:700;text-anchor:middle}
+.glow{animation:glow 3s ease-in-out infinite}
+@keyframes glow{0%,100%{opacity:.85}50%{opacity:1}}
+.b{transform-box:fill-box;transform-origin:bottom;animation:eq ease-in-out infinite}
+@keyframes eq{0%,100%{transform:scaleY(.2)}50%{transform:scaleY(1)}}
+.w{animation:wave 2.4s ease-in-out infinite}
+@keyframes wave{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset=".5" stop-color="#1b1442"/><stop offset="1" stop-color="#0d1117"/></linearGradient><linearGradient id="tt" x1="0" x2="1"><stop offset="0" stop-color="#ff7bd5"/><stop offset=".5" stop-color="#4da6ff"/><stop offset="1" stop-color="#ffd23f"/></linearGradient></defs>
+<rect width="900" height="240" rx="16" fill="url(#bg)"/>
+<text class="n" x="478" y="221" font-size="30" fill="#2ea043" style="animation-duration:8.5s;animation-delay:-6.5s">♫</text>
+<text class="n" x="838" y="215" font-size="30" fill="#ff6b6b" style="animation-duration:9.1s;animation-delay:-2.0s">♩</text>
+<text class="n" x="325" y="168" font-size="18" fill="#c792ea" style="animation-duration:10.0s;animation-delay:-7.6s">♪</text>
+<text class="n" x="624" y="200" font-size="30" fill="#ff6b6b" style="animation-duration:9.7s;animation-delay:-7.2s">♪</text>
+<text class="n" x="30" y="217" font-size="18" fill="#ff7bd5" style="animation-duration:6.2s;animation-delay:-9.7s">♪</text>
+<text class="n" x="45" y="249" font-size="30" fill="#ffd23f" style="animation-duration:8.2s;animation-delay:-9.3s">♪</text>
+<text class="n" x="254" y="231" font-size="26" fill="#2ea043" style="animation-duration:6.0s;animation-delay:-0.9s">♫</text>
+<text class="n" x="299" y="202" font-size="18" fill="#ff6b6b" style="animation-duration:7.3s;animation-delay:-8.3s">♪</text>
+<text class="n" x="310" y="153" font-size="18" fill="#c792ea" style="animation-duration:9.8s;animation-delay:-4.4s">♬</text>
+<text class="n" x="410" y="158" font-size="18" fill="#ff6b6b" style="animation-duration:6.0s;animation-delay:-2.3s">♪</text>
+<text class="n" x="496" y="198" font-size="30" fill="#2ea043" style="animation-duration:6.4s;animation-delay:-6.9s">♫</text>
+<text class="n" x="291" y="193" font-size="18" fill="#ffd23f" style="animation-duration:7.7s;animation-delay:-10.6s">♪</text>
+<text class="n" x="152" y="181" font-size="18" fill="#ff7bd5" style="animation-duration:6.3s;animation-delay:-8.8s">♫</text>
+<text class="n" x="713" y="221" font-size="22" fill="#2ea043" style="animation-duration:8.5s;animation-delay:-10.8s">♫</text>
+<text class="n" x="444" y="232" font-size="30" fill="#ff7bd5" style="animation-duration:8.0s;animation-delay:-10.9s">♪</text>
+<text class="n" x="291" y="225" font-size="26" fill="#ff7bd5" style="animation-duration:7.1s;animation-delay:-4.3s">♪</text>
+<text class="n" x="672" y="223" font-size="18" fill="#ff7bd5" style="animation-duration:10.9s;animation-delay:-2.3s">♬</text>
+<text class="n" x="24" y="248" font-size="26" fill="#ffd23f" style="animation-duration:7.9s;animation-delay:-0.8s">♫</text>
+<text class="n" x="611" y="231" font-size="22" fill="#ff7bd5" style="animation-duration:9.0s;animation-delay:-4.1s">♩</text>
+<text class="n" x="145" y="225" font-size="30" fill="#c792ea" style="animation-duration:6.7s;animation-delay:-4.2s">♫</text>
+<text class="n" x="172" y="189" font-size="22" fill="#c792ea" style="animation-duration:7.2s;animation-delay:-2.1s">♫</text>
+<text class="n" x="659" y="220" font-size="22" fill="#ff6b6b" style="animation-duration:10.8s;animation-delay:-9.7s">♪</text>
+<text class="n" x="95" y="203" font-size="18" fill="#ff7bd5" style="animation-duration:6.5s;animation-delay:-5.6s">♬</text>
+<text class="n" x="259" y="244" font-size="30" fill="#ffd23f" style="animation-duration:8.1s;animation-delay:-10.0s">♩</text>
+<text class="n" x="315" y="216" font-size="22" fill="#ff6b6b" style="animation-duration:10.9s;animation-delay:-1.4s">♩</text>
+<text class="n" x="587" y="233" font-size="18" fill="#ffd23f" style="animation-duration:7.1s;animation-delay:-10.1s">♫</text>
+<text class="n" x="31" y="158" font-size="26" fill="#2ea043" style="animation-duration:8.2s;animation-delay:-0.7s">♫</text>
+<text class="n" x="303" y="197" font-size="22" fill="#ff7bd5" style="animation-duration:7.8s;animation-delay:-9.8s">♬</text>
+<text class="n" x="687" y="243" font-size="22" fill="#c792ea" style="animation-duration:6.2s;animation-delay:-0.2s">♬</text>
+<text class="n" x="732" y="189" font-size="18" fill="#ff7bd5" style="animation-duration:9.0s;animation-delay:-0.8s">♪</text>
+<text class="n" x="763" y="189" font-size="26" fill="#4da6ff" style="animation-duration:11.0s;animation-delay:-0.8s">♪</text>
+<text class="n" x="391" y="244" font-size="18" fill="#ff6b6b" style="animation-duration:9.7s;animation-delay:-1.4s">♬</text>
+<text class="n" x="375" y="160" font-size="30" fill="#ff7bd5" style="animation-duration:10.4s;animation-delay:-4.6s">♪</text>
+<text class="n" x="526" y="223" font-size="18" fill="#c792ea" style="animation-duration:9.3s;animation-delay:-4.2s">♪</text>
+<text class="t glow" x="450.0" y="115" font-size="56" fill="url(#tt)">Hi, I'm Aanya</text>
+<text class="t" x="450.0" y="155" font-size="18" fill="#9ecbff">coding · music · christmas vibes</text>
+</svg>
