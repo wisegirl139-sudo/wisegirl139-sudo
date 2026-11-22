@@ -10,9 +10,11 @@
 
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-0a1f5c?style=for-the-badge&logo=autodesk&logoColor=dfe6f2)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0a1f5c?style=for-the-badge&logo=autodesk&logoColor=dfe6f2)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-0a1f5c?style=for-the-badge&logo=dassaultsystemes&logoColor=dfe6f2)
 ![HTML5](https://img.shields.io/badge/HTML5-0a1f5c?style=for-the-badge&logo=html5&logoColor=dfe6f2)
 ![CSS3](https://img.shields.io/badge/CSS3-0a1f5c?style=for-the-badge&logo=css3&logoColor=dfe6f2)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a1f5c?style=for-the-badge&logo=javascript&logoColor=dfe6f2)
+![React](https://img.shields.io/badge/React-0a1f5c?style=for-the-badge&logo=react&logoColor=dfe6f2)
 ![Git](https://img.shields.io/badge/Git-0a1f5c?style=for-the-badge&logo=git&logoColor=dfe6f2)
 
 <img src="./divider.svg" width="100%" alt=""/>
