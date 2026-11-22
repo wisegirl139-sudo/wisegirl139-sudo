@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" alt="CAD and Web Dev banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DFE6F2&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Aanya+%F0%9F%91%8B;CAD+designer+%7C+Web+developer;Turning+ideas+into+models+%26+websites" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DFE6F2&center=true&vCenter=true&width=560&lines=Web+developer+%F0%9F%92%BB;CAD+designer+%F0%9F%93%90;Turning+ideas+into+models+%26+websites" alt="Typing intro"/>
 
 <img src="./divider.svg" width="100%" alt=""/>
 
@@ -10,11 +10,9 @@
 
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-0a1f5c?style=for-the-badge&logo=autodesk&logoColor=dfe6f2)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0a1f5c?style=for-the-badge&logo=autodesk&logoColor=dfe6f2)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-0a1f5c?style=for-the-badge&logo=dassaultsystemes&logoColor=dfe6f2)
 ![HTML5](https://img.shields.io/badge/HTML5-0a1f5c?style=for-the-badge&logo=html5&logoColor=dfe6f2)
 ![CSS3](https://img.shields.io/badge/CSS3-0a1f5c?style=for-the-badge&logo=css3&logoColor=dfe6f2)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a1f5c?style=for-the-badge&logo=javascript&logoColor=dfe6f2)
-![React](https://img.shields.io/badge/React-0a1f5c?style=for-the-badge&logo=react&logoColor=dfe6f2)
 ![Git](https://img.shields.io/badge/Git-0a1f5c?style=for-the-badge&logo=git&logoColor=dfe6f2)
 
 <img src="./divider.svg" width="100%" alt=""/>
