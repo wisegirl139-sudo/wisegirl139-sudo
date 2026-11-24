@@ -29,5 +29,5 @@
 <img src="./divider.svg" width="100%" alt=""/>
 
 *✦ thanks for stopping by ✦*
-
+-this was vibe coded
 
