@@ -30,7 +30,4 @@
 
 *✦ thanks for stopping by ✦*
 
-</div>
-*✦ thanks for stopping by ✦*
 
-</div>
